@@ -9,6 +9,7 @@
 
 ### Sidebar
 <img width="655" height="613" alt="Captura de tela de 2026-07-28 16-51-45" src="https://github.com/user-attachments/assets/1ae6ffc6-dde3-42ed-9eb6-7f6059a1c8a5" />
+
 ---
 
 ## 1. Painel Principal e Estrutura
